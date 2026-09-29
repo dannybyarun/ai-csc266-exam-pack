@@ -8,6 +8,7 @@ Everything needed to prep for the Tribhuvan University **Artificial Intelligence
 |---|---|
 | **[ai-exam-pack.md](ai-exam-pack.md)** | All past questions (2076–2082 + Model) · topic frequency analysis · 5-hour battle plan · predicted questions |
 | **[memory-strategy.md](memory-strategy.md)** | How to actually REMEMBER it: active recall, Feynman, mnemonics, blurting, night/morning protocol |
+| **[diagrams.md](diagrams.md)** | 🖼️ 29 ready-to-copy diagrams (Mermaid renders live on GitHub) for every exam concept |
 | **[solutions/](solutions/)** | **Every past question solved**, organized by unit |
 
 ## 📚 Solutions by unit
