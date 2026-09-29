@@ -14,6 +14,7 @@ Everything needed to prep for the Tribhuvan University **Artificial Intelligence
 | 6️⃣ | **[exam-answer-bank.md](exam-answer-bank.md)** | Pre-built answers for the ~20 recurring questions (learn answers, not topics) | 60-90 min |
 | 7️⃣ | **[quiz-yourself.md](quiz-yourself.md)** | 50-question self-test with answer key — do it TWICE (spaced repetition) | 2×20 min |
 | 8️⃣ | **[mock-exam-1.md](mock-exam-1.md)** | Full TU-format 60-mark mock + marking scheme | 90 min |
+| ✔️ | **[mock-exam-1-solved.md](mock-exam-1-solved.md)** | The whole mock answered exam-hall style — full-marks model script to diff against | read after attempting |
 
 ## 🧰 Reference files
 
